@@ -1,0 +1,7 @@
+{
+  "name": "EpilepsyDiagnoser",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
